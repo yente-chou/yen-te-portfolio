@@ -22,15 +22,17 @@ My core strength lies in designing end-to-end intelligent systems that connect r
 
 ##  Resume
 
-### ⭐ AI System Architecture Portfolio (Overview)
-
-This presentation introduces my system-level thinking in industrial AI and robotics integration, including architecture design concepts, real-world automation pipelines, and AI-assisted engineering workflows.
-
-👉 **[Download AI System Architecture PPT](./projects/YenTe_Chou_AI_System_Portfolio.pptx)**
-
 ---
 
 ##  Selected Engineering Projects
+
+###  AI System Architecture Portfolio (Overview)
+
+This presentation introduces my system-level thinking in industrial AI and robotics integration, including architecture design concepts, real-world automation pipelines, and AI-assisted engineering workflows.
+
+**[Download AI System Architecture PPT](./projects/YenTe_Chou_AI_System_Portfolio.pptx)**
+
+---
 
 ###  IR Temperature Extraction System
 
