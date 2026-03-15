@@ -22,9 +22,11 @@ My core strength lies in designing end-to-end intelligent systems that connect r
 
 ##  Resume
 
-You can download my latest resume here:
+### ⭐ AI System Architecture Portfolio (Overview)
 
-**[Download Resume](./Yen-Te Chou Resume_Resume.pdf)**  
+This presentation introduces my system-level thinking in industrial AI and robotics integration, including architecture design concepts, real-world automation pipelines, and AI-assisted engineering workflows.
+
+👉 **[Download AI System Architecture PPT](./projects/YenTe_Chou_AI_System_Portfolio.pptx)**
 
 ---
 
